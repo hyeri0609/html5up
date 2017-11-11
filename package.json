@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hyeri0609/html5up#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-hyeriserver": "0.0.1-alpha",
+    "morgan": "^1.9.0"
   }
 }
