@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hyeri0609/html5up/issues"
   },
-  "homepage": "https://github.com/hyeri0609/html5up#readme"
+  "homepage": "https://github.com/hyeri0609/html5up#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
